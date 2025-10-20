@@ -5,25 +5,25 @@ This project demonstrates data cleaning, filtering, aggregation, and statistical
 
 Tools & Libraries
 
-Python
+-> Python
 
-Pandas
+-> Pandas
 
-NumPy
+-> NumPy
 
-Excel (for dataset source)
+-> Excel (for dataset source)
 
 Key Highlights
 
-Identified favourites and underdogs based on betting odds
+-> Identified favourites and underdogs based on betting odds
 
-Analyzed winning streaks, average strikes landed, and title fights
+-> Analyzed winning streaks, average strikes landed, and title fights
 
-Found youngest fighters and the biggest age gaps
+-> Found youngest fighters and the biggest age gaps
 
-Counted fights per year and per weight division
+-> Counted fights per year and per weight division
 
-Discovered fighters with the most knockouts and finishes
+-> Discovered fighters with the most knockouts and finishes
 
-Checked how often underdogs beat favourites
+-> Checked how often underdogs beat favourites
 
